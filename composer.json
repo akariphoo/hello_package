@@ -19,7 +19,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Hak\\GatewayMyanmar\\GatewayServiceProvider"
+                "Akp\\Hello\\HelloServiceProvider"
             ]
         }
     }
