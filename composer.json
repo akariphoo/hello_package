@@ -1,0 +1,19 @@
+{
+    "name": "akp/hello",
+    "description": "This is hello package mesage",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Akp\\Hello\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "akariphoo",
+            "email": "akariphoo@securelinkmm.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
